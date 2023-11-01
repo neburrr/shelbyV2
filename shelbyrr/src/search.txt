@@ -1,0 +1,3 @@
+https://savjee.be/blog/esp32-cam-cropping-images-on-device/ //image manipulation
+
+fb->buf[h] = 1/9 * conv(fb, position, &kernelBlur);
